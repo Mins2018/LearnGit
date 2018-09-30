@@ -4,3 +4,4 @@ Git learn about stage.
 Creating a new branch is quick and simple.
 Test branch "--no-ff".
 Test Bug branch.
+Test stash.
